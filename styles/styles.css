@@ -50,3 +50,24 @@ body {
     background-color: var(--bs-primary);
     color: white;
 }
+
+.youtube-videos{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('WorkSans-Regular.ttf') format('truetype');
+  }
+
+  .youtube-button {
+    width: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
